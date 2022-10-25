@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hajovel.github.io/portfolio/sitemap.xml

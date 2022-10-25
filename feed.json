@@ -1,0 +1,69 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "haven&#x27;s portfolio",
+    "description": "",
+    "home_page_url": "https://hajovel.github.io/portfolio",
+    "feed_url": "https://hajovel.github.io/portfolio/feed.json",
+    "user_comment": "",
+    "icon": "https://hajovel.github.io/portfolio/media/website/website_avatar.png",
+    "author": {
+        "name": "haven"
+    },
+    "items": [
+        {
+            "id": "https://hajovel.github.io/portfolio/bruinplanner.html",
+            "url": "https://hajovel.github.io/portfolio/bruinplanner.html",
+            "title": "BruinPlanner",
+            "summary": "In a team of five, we interviewed five participants who were all&hellip;",
+            "content_html": "<p><span class=\"c6 c16\">In a team of five, we interviewed five participants who were all UCLA students taking Fundamentals of User Experience to gain further insight to the usability of our product, Bruin Planner. For this portion of the project, we tested the flow of changing a course from a generated plan for the Winter 2021 term. To test this, we conducted a usability test, designing a prototype on Figma in which the interviewee was asked to complete the task by clicking through the prototype and navigating through a series of slides demonstrating BruinPlanner’s interface. This testing activity needed to be conducted in order to gain knowledge of a user’s understanding and interaction with the app to assess whether its state meets user’s expectations and goals. </span></p>\n<p><span class=\"c6 c16\">Conducting these interviews, we found that many interviewees used prior knowledge of class planners to navigate through BruinPlanner, hoping that the process in changing courses were more abridged and required less steps, and the amount of detailed information on a course should vary depending on the task. Based on this new insight, the development team can implement new design changes to reflect the user’s input such as minimizing the app’s interface by removing clutter and unnecessary screen confirmations to create a more streamlined process in changing their plans. In addition, the team can reflect further on our research questions that focus on four-year degree planning and explore further how it can be balanced to match user’s previous expectations in quarter-to-quarter class planning to create a more intuitive and easy experience. </span></p>\n<p><span class=\"c6 c16\">Over the course of this project, we learned how to conduct a productive user interview to gain intel on current student’s needs and goals, design and present a prototype, and interpret usability test reports to further develop BruinPlanner. Since the first research activity, we have updated our requirements list to include displaying only the title of the course and an option to expand and view more information, and keeping the process of customizing courses limited to 2-3 steps with no repetition or redundancy. In addition, new changes made to the root cause analysis reflect more accurately the user's ultimate goals in having a fun, engaging college experience. </span></p>\n<h4>Low-Fidelity Wireframes</h4>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"5\">\n<figure class=\"gallery__item\"><a href=\"https://hajovel.github.io/portfolio/media/posts/5/gallery/iPhone-13-Pro-Max-1.png\" data-size=\"428x926\"><img loading=\"lazy\" src=\"https://hajovel.github.io/portfolio/media/posts/5/gallery/iPhone-13-Pro-Max-1-thumbnail.png\" alt=\"\" width=\"428\" height=\"926\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hajovel.github.io/portfolio/media/posts/5/gallery/iPhone-13-Pro-Max-4.png\" data-size=\"428x926\"><img loading=\"lazy\" src=\"https://hajovel.github.io/portfolio/media/posts/5/gallery/iPhone-13-Pro-Max-4-thumbnail.png\" alt=\"\" width=\"428\" height=\"926\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hajovel.github.io/portfolio/media/posts/5/gallery/iPhone-13-Pro-Max-3.png\" data-size=\"428x926\"><img loading=\"lazy\" src=\"https://hajovel.github.io/portfolio/media/posts/5/gallery/iPhone-13-Pro-Max-3-thumbnail.png\" alt=\"\" width=\"428\" height=\"926\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hajovel.github.io/portfolio/media/posts/5/gallery/iPhone-13-Pro-Max-2.png\" data-size=\"428x926\"><img loading=\"lazy\" src=\"https://hajovel.github.io/portfolio/media/posts/5/gallery/iPhone-13-Pro-Max-2-thumbnail.png\" alt=\"\" width=\"428\" height=\"926\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hajovel.github.io/portfolio/media/posts/5/gallery/iPhone-13-Pro-Max-5.png\" data-size=\"428x926\"><img loading=\"lazy\" src=\"https://hajovel.github.io/portfolio/media/posts/5/gallery/iPhone-13-Pro-Max-5-thumbnail.png\" alt=\"\" width=\"428\" height=\"926\"></a></figure>\n</div></div>\n<h4>High-Fidelity Wireframes</h4>\n<p><img loading=\"lazy\" title=\"\" src=\"https://lh4.googleusercontent.com/2ChRjsR_xJQDKmGZKdAld2MjKh_OfIro4KJ0-zCrkWRMkyKKFnb-jL5XrTrwFwqgOguhiXtU9JHNx7y-82ZU_cWI3BuC3Qhl4OelVDEweUR9F-6K4SV2PDhmltphqOU48UugWA3A5WoD70oQwoEQTi7SYPr3h9NglpzJ75jPCS5AwrOajA\" data-is-external-image=\"true\"  alt=\"\"></p>\n<h3>Prototype</h3>\n<p>Interact with our application below!</p>\n<p class=\"c2 c4\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"800\" height=\"450\" src=\"https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2FICZIsMUWBkDMjt6idHSyrB%2FPSYCH-124-PROJECT%3Fnode-id%3D41%253A3%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D41%253A3%26show-proto-sidebar%3D1\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p class=\"c2 c4\"> </p>\n<p class=\"c2 c4\"> </p>",
+            "image": "https://hajovel.github.io/portfolio/media/posts/5/bruinplannerlogo.png",
+            "author": {
+                "name": "haven"
+            },
+            "tags": [
+                   "UI/UX",
+                   "Project",
+                   "Design"
+            ],
+            "date_published": "2022-10-24T22:14:33-07:00",
+            "date_modified": "2022-10-24T22:30:16-07:00"
+        },
+        {
+            "id": "https://hajovel.github.io/portfolio/gender-and-development.html",
+            "url": "https://hajovel.github.io/portfolio/gender-and-development.html",
+            "title": "Gender and Development ",
+            "summary": "View our team's website here!",
+            "content_html": "<p> </p>\n<h3>About </h3>\n<p>View our team's website <a href=\"#INTERNAL_LINK#/post/null\" title=\"https://genderanddevelopment.humspace.ucla.edu\">here</a>!</p>",
+            "image": "https://hajovel.github.io/portfolio/media/posts/4/Screen-Shot-2022-10-24-at-10.10.47-PM.png",
+            "author": {
+                "name": "haven"
+            },
+            "tags": [
+                   "Website Design",
+                   "Research",
+                   "Project",
+                   "Design"
+            ],
+            "date_published": "2022-10-24T21:55:06-07:00",
+            "date_modified": "2022-10-24T22:11:58-07:00"
+        },
+        {
+            "id": "https://hajovel.github.io/portfolio/uclgays.html",
+            "url": "https://hajovel.github.io/portfolio/uclgays.html",
+            "title": "UCLgAy&#x27;s",
+            "summary": "View our website here! ",
+            "content_html": "<p>View our website <a href=\"#INTERNAL_LINK#/post/null\" title=\"https://shubhgupta2018.github.io/uclgay/index.html\">here</a>! </p>",
+            "image": "https://hajovel.github.io/portfolio/media/posts/6/gaybear.PNG",
+            "author": {
+                "name": "haven"
+            },
+            "tags": [
+                   "Website Design",
+                   "Research",
+                   "Project"
+            ],
+            "date_published": "2022-06-10T22:39:00-07:00",
+            "date_modified": "2022-10-24T22:43:03-07:00"
+        }
+    ]
+}
