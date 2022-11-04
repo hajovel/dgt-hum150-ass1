@@ -3,7 +3,7 @@
     <title>haven&#x27;s portfolio</title>
     <link href="https://hajovel.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://hajovel.github.io/portfolio" />
-    <updated>2022-11-04T02:57:56-07:00</updated>
+    <updated>2022-11-04T03:03:56-07:00</updated>
     <author>
         <name>haven</name>
     </author>
@@ -204,7 +204,7 @@
             <category term="Website Design"/>
             <category term="Project"/>
 
-        <updated>2022-11-04T02:57:56-07:00</updated>
+        <updated>2022-11-04T03:03:56-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hajovel.github.io/portfolio/media/posts/4/Screen-Shot-2022-10-24-at-10.10.47-PM.png" alt="" />
@@ -222,7 +222,7 @@
 <div> </div>
 <div>I was the primary website designer, meaning I foresaw the entirety of the design process from selecting themes, selecting a color scheme, and editing the website content using Wordpress hosted by Humspace. </div>
 </div>
-<p>View our team's website <a href="#INTERNAL_LINK#/null/undefined" title="https://genderanddevelopment.humspace.ucla.edu/" target="_blank" rel="noopener noreferrer">here</a>!</p>
+<p>View our team's website <a href="https://genderanddevelopment.humspace.ucla.edu/" target="_blank" rel="noopener noreferrer">here</a>!</p>
             ]]>
         </content>
     </entry>
@@ -237,7 +237,7 @@
             <category term="UI/UX"/>
             <category term="Project"/>
 
-        <updated>2022-11-04T02:26:14-07:00</updated>
+        <updated>2022-11-04T03:03:19-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hajovel.github.io/portfolio/media/posts/6/gaybear.PNG" alt="" />
@@ -273,7 +273,7 @@
 <figure class="gallery__item"><a href="https://hajovel.github.io/portfolio/media/posts/6/gallery/Revisioned-Home-Page-Wireframe-1.png" data-size="1520x2104"><img loading="lazy" src="https://hajovel.github.io/portfolio/media/posts/6/gallery/Revisioned-Home-Page-Wireframe-1-thumbnail.png" alt="" width="768" height="1063"></a></figure>
 <figure class="gallery__item"><a href="https://hajovel.github.io/portfolio/media/posts/6/gallery/Revisioned-Home-Page-Wireframe.png" data-size="1520x2104"><img loading="lazy" src="https://hajovel.github.io/portfolio/media/posts/6/gallery/Revisioned-Home-Page-Wireframe-thumbnail.png" alt="" width="768" height="1063"></a></figure>
 </div></div>
-<p>To view the final result, visit our website <a href="https://hajovel.github.io/portfolio/uclgays.html" title="https://shubhgupta2018.github.io/uclgay/" target="_blank" rel="noopener noreferrer">here</a>! </p>
+<p>To view the final result, visit our website <a href="https://shubhgupta2018.github.io/uclgay/" target="_blank" rel="noopener noreferrer">here</a>! </p>
             ]]>
         </content>
     </entry>
