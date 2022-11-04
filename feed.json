@@ -129,7 +129,7 @@
             "url": "https://hajovel.github.io/portfolio/gender-and-development.html",
             "title": "Gender and Development ",
             "summary": "About For the Fall Quarter '21 course Introduction to Digital Humanities, I&hellip;",
-            "content_html": "<h3>About </h3>\n<div>\n<div>For the Fall Quarter '21 course Introduction to Digital Humanities, I collaborated with four other students to create a website from scratch that would be the platform for our findings while analyzing our selected dataset. </div>\n<div> </div>\n<div>For our data, we picked a dataset from the OECD’s The Gender, Institutions and Development Database from 2019, specifically examining the differences and similarities of Eastern European countries when it came to gender attitudes, such as when it comes to violence against women and political voice. </div>\n<div> </div>\n<div>I was the primary website designer, meaning I foresaw the entirety of the design process from selecting themes, selecting a color scheme, and editing the website content using Wordpress hosted by Humspace. </div>\n</div>\n<p>View our team's website <a href=\"https://hajovel.github.io/portfolio/gender-and-development.html\" title=\"https://genderanddevelopment.humspace.ucla.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>!</p>",
+            "content_html": "<h3>About </h3>\n<div>\n<div>For the Fall Quarter '21 course Introduction to Digital Humanities, I collaborated with four other students to create a website from scratch that would be the platform for our findings while analyzing our selected dataset. </div>\n<div> </div>\n<div>For our data, we picked a dataset from the OECD’s The Gender, Institutions and Development Database from 2019, specifically examining the differences and similarities of Eastern European countries when it came to gender attitudes, such as when it comes to violence against women and political voice. </div>\n<div> </div>\n<div>I was the primary website designer, meaning I foresaw the entirety of the design process from selecting themes, selecting a color scheme, and editing the website content using Wordpress hosted by Humspace. </div>\n</div>\n<p>View our team's website <a href=\"#INTERNAL_LINK#/null/undefined\" title=\"https://genderanddevelopment.humspace.ucla.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>!</p>",
             "image": "https://hajovel.github.io/portfolio/media/posts/4/Screen-Shot-2022-10-24-at-10.10.47-PM.png",
             "author": {
                 "name": "haven"
@@ -139,7 +139,7 @@
                    "Project"
             ],
             "date_published": "2022-10-24T21:55:06-07:00",
-            "date_modified": "2022-11-04T02:48:57-07:00"
+            "date_modified": "2022-11-04T02:57:56-07:00"
         },
         {
             "id": "https://hajovel.github.io/portfolio/uclgays.html",
