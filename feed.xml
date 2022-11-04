@@ -3,12 +3,83 @@
     <title>haven&#x27;s portfolio</title>
     <link href="https://hajovel.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://hajovel.github.io/portfolio" />
-    <updated>2022-11-04T02:26:14-07:00</updated>
+    <updated>2022-11-04T02:49:10-07:00</updated>
     <author>
         <name>haven</name>
     </author>
     <id>https://hajovel.github.io/portfolio</id>
 
+    <entry>
+        <title>La historia de Latine Punx</title>
+        <author>
+            <name>haven</name>
+        </author>
+        <link href="https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo-4.html"/>
+        <id>https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo-4.html</id>
+            <category term="Design"/>
+
+        <updated>2022-11-04T02:48:11-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hajovel.github.io/portfolio/media/posts/13/Latine-punks.jpeg" alt="" />
+                    Visual for a web article published in 2021. Created with Procreate.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hajovel.github.io/portfolio/media/posts/13/Latine-punks.jpeg" alt="" />
+                <p>Visual for a web article published in 2021.</p>
+<p>Created with Procreate.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Loteria de los Zodiacs</title>
+        <author>
+            <name>haven</name>
+        </author>
+        <link href="https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo-3.html"/>
+        <id>https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo-3.html</id>
+            <category term="Design"/>
+
+        <updated>2022-11-04T02:46:59-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hajovel.github.io/portfolio/media/posts/12/loteria.jpeg" alt="" />
+                    Created with Procreate.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hajovel.github.io/portfolio/media/posts/12/loteria.jpeg" alt="" />
+                <p>Created with Procreate.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>La Gente Newsmagazine - Reflections cover</title>
+        <author>
+            <name>haven</name>
+        </author>
+        <link href="https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo-2.html"/>
+        <id>https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo-2.html</id>
+            <category term="Design"/>
+
+        <updated>2022-11-04T02:44:42-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hajovel.github.io/portfolio/media/posts/11/Zine-cover.jpeg" alt="" />
+                    I was given the opportunity to design the cover for the Winter&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hajovel.github.io/portfolio/media/posts/11/Zine-cover.jpeg" alt="" />
+                <p>I was given the opportunity to design the cover for the Winter 2020 zine issue for La Gente Newsmagazine, where we handed them out at Bruinwalk and it was greatly received, selling out of copies before our last day of tabling. In theme of the zine title, I reflect back on the fact that later on, once I became editor, an intern shared that she joined La Gente one year later because she happened to pick up a copy of the issue and really loved the cover that she kept it and hung it on her wall. She decided that she would apply. </p>
+<p>Made with Procreate and Photoshop. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Chismeando con La Gente Luna Luna Interview Promo</title>
         <author>
@@ -16,8 +87,9 @@
         </author>
         <link href="https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo.html"/>
         <id>https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo.html</id>
+            <category term="Design"/>
 
-        <updated>2022-11-04T02:24:58-07:00</updated>
+        <updated>2022-11-04T02:44:55-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hajovel.github.io/portfolio/media/posts/10/chisme-lunaluna-01-2.png" alt="" />
@@ -27,8 +99,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://hajovel.github.io/portfolio/media/posts/10/chisme-lunaluna-01-2.png" alt="" />
-                <figure class="post__image"><img loading="lazy"  src="https://hajovel.github.io/portfolio/media/posts/10/chisme-lunaluna-01.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://hajovel.github.io/portfolio/media/posts/10/responsive/chisme-lunaluna-01-xs.png 300w ,https://hajovel.github.io/portfolio/media/posts/10/responsive/chisme-lunaluna-01-sm.png 480w ,https://hajovel.github.io/portfolio/media/posts/10/responsive/chisme-lunaluna-01-md.png 768w ,https://hajovel.github.io/portfolio/media/posts/10/responsive/chisme-lunaluna-01-lg.png 1024w"  alt="" width="4655" height="4655"></figure>
-<p>Created with both Procreate and Illustrator.</p>
+                <p>Created with both Procreate and Illustrator.</p>
             ]]>
         </content>
     </entry>
@@ -66,7 +137,7 @@
         <id>https://hajovel.github.io/portfolio/uclgays-2.html</id>
             <category term="Design"/>
 
-        <updated>2022-11-04T02:24:14-07:00</updated>
+        <updated>2022-11-04T02:45:39-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hajovel.github.io/portfolio/media/posts/7/Insta-post-9-2.png" alt="" />
@@ -76,8 +147,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://hajovel.github.io/portfolio/media/posts/7/Insta-post-9-2.png" alt="" />
-                <figure class="post__image"><img loading="lazy"  src="https://hajovel.github.io/portfolio/media/posts/7/Insta-post-9.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://hajovel.github.io/portfolio/media/posts/7/responsive/Insta-post-9-xs.png 300w ,https://hajovel.github.io/portfolio/media/posts/7/responsive/Insta-post-9-sm.png 480w ,https://hajovel.github.io/portfolio/media/posts/7/responsive/Insta-post-9-md.png 768w ,https://hajovel.github.io/portfolio/media/posts/7/responsive/Insta-post-9-lg.png 1024w"  alt="CL bracelet social for SNS" width="1080" height="1080"></figure>
-<p>In collaboration with team member Sage, we designed a social media post to promote our bracelet social where we get to make our own charms/bracelets!</p>
+                <p>In collaboration with team member Sage, we designed a social media post to promote our bracelet social where we get to make our own charms/bracelets using Figma.</p>
             ]]>
         </content>
     </entry>
@@ -92,7 +162,7 @@
             <category term="Project"/>
             <category term="Design"/>
 
-        <updated>2022-11-03T23:36:12-07:00</updated>
+        <updated>2022-11-04T02:49:10-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hajovel.github.io/portfolio/media/posts/5/bruinplannerlogo.png" alt="" />
@@ -133,9 +203,8 @@
         <id>https://hajovel.github.io/portfolio/gender-and-development.html</id>
             <category term="Website Design"/>
             <category term="Project"/>
-            <category term="Design"/>
 
-        <updated>2022-11-04T02:13:10-07:00</updated>
+        <updated>2022-11-04T02:48:57-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://hajovel.github.io/portfolio/media/posts/4/Screen-Shot-2022-10-24-at-10.10.47-PM.png" alt="" />

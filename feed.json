@@ -11,19 +11,68 @@
     },
     "items": [
         {
+            "id": "https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo-4.html",
+            "url": "https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo-4.html",
+            "title": "La historia de Latine Punx",
+            "summary": "Visual for a web article published in 2021. Created with Procreate.",
+            "content_html": "<p>Visual for a web article published in 2021.</p>\n<p>Created with Procreate.</p>",
+            "image": "https://hajovel.github.io/portfolio/media/posts/13/Latine-punks.jpeg",
+            "author": {
+                "name": "haven"
+            },
+            "tags": [
+                   "Design"
+            ],
+            "date_published": "2022-11-04T02:48:11-07:00",
+            "date_modified": "2022-11-04T02:48:11-07:00"
+        },
+        {
+            "id": "https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo-3.html",
+            "url": "https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo-3.html",
+            "title": "Loteria de los Zodiacs",
+            "summary": "Created with Procreate.",
+            "content_html": "<p>Created with Procreate.</p>",
+            "image": "https://hajovel.github.io/portfolio/media/posts/12/loteria.jpeg",
+            "author": {
+                "name": "haven"
+            },
+            "tags": [
+                   "Design"
+            ],
+            "date_published": "2022-11-04T02:46:59-07:00",
+            "date_modified": "2022-11-04T02:46:59-07:00"
+        },
+        {
+            "id": "https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo-2.html",
+            "url": "https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo-2.html",
+            "title": "La Gente Newsmagazine - Reflections cover",
+            "summary": "I was given the opportunity to design the cover for the Winter&hellip;",
+            "content_html": "<p>I was given the opportunity to design the cover for the Winter 2020 zine issue for La Gente Newsmagazine, where we handed them out at Bruinwalk and it was greatly received, selling out of copies before our last day of tabling. In theme of the zine title, I reflect back on the fact that later on, once I became editor, an intern shared that she joined La Gente one year later because she happened to pick up a copy of the issue and really loved the cover that she kept it and hung it on her wall. She decided that she would apply. </p>\n<p>Made with Procreate and Photoshop. </p>",
+            "image": "https://hajovel.github.io/portfolio/media/posts/11/Zine-cover.jpeg",
+            "author": {
+                "name": "haven"
+            },
+            "tags": [
+                   "Design"
+            ],
+            "date_published": "2022-11-04T02:44:27-07:00",
+            "date_modified": "2022-11-04T02:44:42-07:00"
+        },
+        {
             "id": "https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo.html",
             "url": "https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo.html",
             "title": "Chismeando con La Gente Luna Luna Interview Promo",
             "summary": "Created with both Procreate and Illustrator.",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://hajovel.github.io/portfolio/media/posts/10/chisme-lunaluna-01.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://hajovel.github.io/portfolio/media/posts/10/responsive/chisme-lunaluna-01-xs.png 300w ,https://hajovel.github.io/portfolio/media/posts/10/responsive/chisme-lunaluna-01-sm.png 480w ,https://hajovel.github.io/portfolio/media/posts/10/responsive/chisme-lunaluna-01-md.png 768w ,https://hajovel.github.io/portfolio/media/posts/10/responsive/chisme-lunaluna-01-lg.png 1024w\"  alt=\"\" width=\"4655\" height=\"4655\"></figure>\n<p>Created with both Procreate and Illustrator.</p>",
+            "content_html": "<p>Created with both Procreate and Illustrator.</p>",
             "image": "https://hajovel.github.io/portfolio/media/posts/10/chisme-lunaluna-01-2.png",
             "author": {
                 "name": "haven"
             },
             "tags": [
+                   "Design"
             ],
             "date_published": "2022-11-04T02:23:27-07:00",
-            "date_modified": "2022-11-04T02:24:58-07:00"
+            "date_modified": "2022-11-04T02:44:55-07:00"
         },
         {
             "id": "https://hajovel.github.io/portfolio/uclgays-4.html",
@@ -46,7 +95,7 @@
             "url": "https://hajovel.github.io/portfolio/uclgays-2.html",
             "title": "CL Bracelet Social!",
             "summary": "In collaboration with team member Sage, we designed a social media post&hellip;",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://hajovel.github.io/portfolio/media/posts/7/Insta-post-9.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://hajovel.github.io/portfolio/media/posts/7/responsive/Insta-post-9-xs.png 300w ,https://hajovel.github.io/portfolio/media/posts/7/responsive/Insta-post-9-sm.png 480w ,https://hajovel.github.io/portfolio/media/posts/7/responsive/Insta-post-9-md.png 768w ,https://hajovel.github.io/portfolio/media/posts/7/responsive/Insta-post-9-lg.png 1024w\"  alt=\"CL bracelet social for SNS\" width=\"1080\" height=\"1080\"></figure>\n<p>In collaboration with team member Sage, we designed a social media post to promote our bracelet social where we get to make our own charms/bracelets!</p>",
+            "content_html": "<p>In collaboration with team member Sage, we designed a social media post to promote our bracelet social where we get to make our own charms/bracelets using Figma.</p>",
             "image": "https://hajovel.github.io/portfolio/media/posts/7/Insta-post-9-2.png",
             "author": {
                 "name": "haven"
@@ -55,7 +104,7 @@
                    "Design"
             ],
             "date_published": "2022-11-04T02:16:45-07:00",
-            "date_modified": "2022-11-04T02:24:14-07:00"
+            "date_modified": "2022-11-04T02:45:39-07:00"
         },
         {
             "id": "https://hajovel.github.io/portfolio/bruinplanner.html",
@@ -73,7 +122,7 @@
                    "Design"
             ],
             "date_published": "2022-10-24T22:14:33-07:00",
-            "date_modified": "2022-11-03T23:36:12-07:00"
+            "date_modified": "2022-11-04T02:49:10-07:00"
         },
         {
             "id": "https://hajovel.github.io/portfolio/gender-and-development.html",
@@ -87,11 +136,10 @@
             },
             "tags": [
                    "Website Design",
-                   "Project",
-                   "Design"
+                   "Project"
             ],
             "date_published": "2022-10-24T21:55:06-07:00",
-            "date_modified": "2022-11-04T02:13:10-07:00"
+            "date_modified": "2022-11-04T02:48:57-07:00"
         },
         {
             "id": "https://hajovel.github.io/portfolio/uclgays.html",
