@@ -21,23 +21,26 @@
                 "name": "haven"
             },
             "tags": [
+                   "Graphics"
             ],
             "date_published": "2023-02-21T02:45:31-08:00",
-            "date_modified": "2023-02-21T02:48:29-08:00"
+            "date_modified": "2023-02-21T03:38:01-08:00"
         },
         {
             "id": "https://hajovel.github.io/portfolio/gl-introduction-recap.html",
             "url": "https://hajovel.github.io/portfolio/gl-introduction-recap.html",
             "title": "GL Introduction Recap",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://hajovel.github.io/portfolio/media/posts/17/gallery/Instagram-post-1.png\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://hajovel.github.io/portfolio/media/posts/17/gallery/Instagram-post-1-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hajovel.github.io/portfolio/media/posts/17/gallery/Instagram-post-2.png\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://hajovel.github.io/portfolio/media/posts/17/gallery/Instagram-post-2-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hajovel.github.io/portfolio/media/posts/17/gallery/Instagram-post-3.png\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://hajovel.github.io/portfolio/media/posts/17/gallery/Instagram-post-3-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hajovel.github.io/portfolio/media/posts/17/gallery/Instagram-post-5.png\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://hajovel.github.io/portfolio/media/posts/17/gallery/Instagram-post-5-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>",
+            "summary": "Created using Figma.",
+            "content_html": "<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://hajovel.github.io/portfolio/media/posts/17/gallery/Instagram-post-1.png\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://hajovel.github.io/portfolio/media/posts/17/gallery/Instagram-post-1-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hajovel.github.io/portfolio/media/posts/17/gallery/Instagram-post-2.png\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://hajovel.github.io/portfolio/media/posts/17/gallery/Instagram-post-2-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hajovel.github.io/portfolio/media/posts/17/gallery/Instagram-post-3.png\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://hajovel.github.io/portfolio/media/posts/17/gallery/Instagram-post-3-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hajovel.github.io/portfolio/media/posts/17/gallery/Instagram-post-5.png\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://hajovel.github.io/portfolio/media/posts/17/gallery/Instagram-post-5-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>\n<p>Created using Figma.</p>",
             "image": "https://hajovel.github.io/portfolio/media/posts/17/Instagram-post-1.png",
             "author": {
                 "name": "haven"
             },
             "tags": [
+                   "Graphics"
             ],
             "date_published": "2023-02-17T00:08:52-08:00",
-            "date_modified": "2023-02-17T00:09:23-08:00"
+            "date_modified": "2023-02-21T03:43:47-08:00"
         },
         {
             "id": "https://hajovel.github.io/portfolio/gl-e-dating-infographics.html",
@@ -52,7 +55,7 @@
                    "Graphics"
             ],
             "date_published": "2023-02-17T00:05:30-08:00",
-            "date_modified": "2023-02-17T00:07:58-08:00"
+            "date_modified": "2023-02-21T03:44:55-08:00"
         },
         {
             "id": "https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo-5.html",
