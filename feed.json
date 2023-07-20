@@ -126,8 +126,8 @@
             "url": "https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo.html",
             "title": "Chismeando con La Gente Luna Luna Interview Promo",
             "summary": "Created with both Procreate and&hellip;",
-            "content_html": "<p>Created with both Procreate and Illustrator.</p>",
-            "image": "https://hajovel.github.io/portfolio/media/posts/10/chisme-lunaluna-01-2.png",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://hajovel.github.io/portfolio/media/posts/10/chisme-lunaluna-01-2-lg.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://hajovel.github.io/portfolio/media/posts/10/responsive/chisme-lunaluna-01-2-lg-xs.png 300w ,https://hajovel.github.io/portfolio/media/posts/10/responsive/chisme-lunaluna-01-2-lg-sm.png 480w ,https://hajovel.github.io/portfolio/media/posts/10/responsive/chisme-lunaluna-01-2-lg-md.png 768w ,https://hajovel.github.io/portfolio/media/posts/10/responsive/chisme-lunaluna-01-2-lg-lg.png 1024w\"  alt=\"\" width=\"1024\" height=\"1024\"></figure>\n<p>Created with both Procreate and Illustrator.</p>",
+            "image": "https://hajovel.github.io/portfolio/media/posts/10/chisme-lunaluna-01-2-lg-2.png",
             "author": {
                 "name": "haven"
             },
@@ -135,23 +135,7 @@
                    "Graphic Design"
             ],
             "date_published": "2022-11-04T02:23:27-07:00",
-            "date_modified": "2022-11-04T02:44:55-07:00"
-        },
-        {
-            "id": "https://hajovel.github.io/portfolio/uclgays-4.html",
-            "url": "https://hajovel.github.io/portfolio/uclgays-4.html",
-            "title": "La Gente Newsmagazine Fall Issue &#x27;22 ",
-            "summary": "For this project, I contributed as both the Visuals Editor and Layout Editor, with my primary focus being the overall appearance of this quarter's theme. I contributed visuals myself such as the cover image, as well as making, editing, and overseeing the process of creating the overall magazine layout of our digital spring issue. In addition, I worked with the visual team to edit and provide feedback on their pieces to encourage growth and a healthy learning environment. Click through this issue&hellip;",
-            "content_html": "<p>For this project, I contributed as both the Visuals Editor and Layout Editor, with my primary focus being the overall appearance of this quarter's theme. I contributed visuals myself such as the cover image, as well as making, editing, and overseeing the process of creating the overall magazine layout of our digital spring issue. In addition, I worked with the visual team to edit and provide feedback on their pieces to encourage growth and a healthy learning environment. </p>\n<p>Click through this issue below.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"620px\" height=\"565px\" src=\"https://www.yumpu.com/en/embed/view/C1RlvaP0c73GxiY2\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://hajovel.github.io/portfolio/media/posts/9/front-cover.JPG",
-            "author": {
-                "name": "haven"
-            },
-            "tags": [
-                   "Graphic Design"
-            ],
-            "date_published": "2022-11-04T02:20:51-07:00",
-            "date_modified": "2022-11-04T02:24:36-07:00"
+            "date_modified": "2023-07-20T00:47:12-07:00"
         },
         {
             "id": "https://hajovel.github.io/portfolio/bruinplanner.html",
@@ -168,6 +152,22 @@
             ],
             "date_published": "2022-10-24T22:14:33-07:00",
             "date_modified": "2023-07-18T02:40:51-07:00"
+        },
+        {
+            "id": "https://hajovel.github.io/portfolio/gender-and-development.html",
+            "url": "https://hajovel.github.io/portfolio/gender-and-development.html",
+            "title": "Gender and Development ",
+            "summary": "About For the Fall Quarter '21 course Introduction to Digital Humanities, I collaborated with four other students to create a website from scratch that would be the platform for our findings while analyzing our selected dataset. For our data, we picked a dataset from the OECD’s The Gender, Institutions and Development Database from 2019, specifically examining the differences and similarities of Eastern European countries when it came to gender attitudes, such as when it comes to violence against women and political voice. I was the primary website designer, meaning I foresaw the entirety of the design process from selecting themes, selecting a color scheme, and editing the website content using Wordpress hosted by Humspace. View our team's website&hellip;",
+            "content_html": "<h3>About </h3>\n<div>\n<div>For the Fall Quarter '21 course Introduction to Digital Humanities, I collaborated with four other students to create a website from scratch that would be the platform for our findings while analyzing our selected dataset. </div>\n<div> </div>\n<div>For our data, we picked a dataset from the OECD’s The Gender, Institutions and Development Database from 2019, specifically examining the differences and similarities of Eastern European countries when it came to gender attitudes, such as when it comes to violence against women and political voice. </div>\n<div> </div>\n<div>I was the primary website designer, meaning I foresaw the entirety of the design process from selecting themes, selecting a color scheme, and editing the website content using Wordpress hosted by Humspace. </div>\n</div>\n<p>View our team's website <a href=\"https://genderanddevelopment.humspace.ucla.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>!</p>",
+            "image": "https://hajovel.github.io/portfolio/media/posts/4/Screen-Shot-2023-07-20-at-12.43.46-AM.png",
+            "author": {
+                "name": "haven"
+            },
+            "tags": [
+                   "Website Design"
+            ],
+            "date_published": "2022-10-24T21:55:06-07:00",
+            "date_modified": "2023-07-20T00:44:29-07:00"
         }
     ]
 }

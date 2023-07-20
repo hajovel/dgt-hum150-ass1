@@ -3,7 +3,7 @@
     <title>haven&#x27;s portfolio</title>
     <link href="https://hajovel.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://hajovel.github.io/portfolio" />
-    <updated>2023-07-18T02:40:51-07:00</updated>
+    <updated>2023-07-20T00:47:12-07:00</updated>
     <author>
         <name>haven</name>
     </author>
@@ -205,42 +205,18 @@
         <id>https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo.html</id>
             <category term="Graphic Design"/>
 
-        <updated>2022-11-04T02:44:55-07:00</updated>
+        <updated>2023-07-20T00:47:12-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://hajovel.github.io/portfolio/media/posts/10/chisme-lunaluna-01-2.png" alt="" />
+                        <img src="https://hajovel.github.io/portfolio/media/posts/10/chisme-lunaluna-01-2-lg-2.png" alt="" />
                     Created with both Procreate and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://hajovel.github.io/portfolio/media/posts/10/chisme-lunaluna-01-2.png" alt="" />
-                <p>Created with both Procreate and Illustrator.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>La Gente Newsmagazine Fall Issue &#x27;22 </title>
-        <author>
-            <name>haven</name>
-        </author>
-        <link href="https://hajovel.github.io/portfolio/uclgays-4.html"/>
-        <id>https://hajovel.github.io/portfolio/uclgays-4.html</id>
-            <category term="Graphic Design"/>
-
-        <updated>2022-11-04T02:24:36-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://hajovel.github.io/portfolio/media/posts/9/front-cover.JPG" alt="" />
-                    For this project, I contributed as both the Visuals Editor and Layout Editor, with my primary focus being the overall appearance of this quarter's theme. I contributed visuals myself such as the cover image, as well as making, editing, and overseeing the process of creating the overall magazine layout of our digital spring issue. In addition, I worked with the visual team to edit and provide feedback on their pieces to encourage growth and a healthy learning environment. Click through this issue&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://hajovel.github.io/portfolio/media/posts/9/front-cover.JPG" alt="" />
-                <p>For this project, I contributed as both the Visuals Editor and Layout Editor, with my primary focus being the overall appearance of this quarter's theme. I contributed visuals myself such as the cover image, as well as making, editing, and overseeing the process of creating the overall magazine layout of our digital spring issue. In addition, I worked with the visual team to edit and provide feedback on their pieces to encourage growth and a healthy learning environment. </p>
-<p>Click through this issue below.</p>
-<div class="post__iframe"><iframe loading="lazy" width="620px" height="565px" src="https://www.yumpu.com/en/embed/view/C1RlvaP0c73GxiY2" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+                    <img src="https://hajovel.github.io/portfolio/media/posts/10/chisme-lunaluna-01-2-lg-2.png" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://hajovel.github.io/portfolio/media/posts/10/chisme-lunaluna-01-2-lg.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://hajovel.github.io/portfolio/media/posts/10/responsive/chisme-lunaluna-01-2-lg-xs.png 300w ,https://hajovel.github.io/portfolio/media/posts/10/responsive/chisme-lunaluna-01-2-lg-sm.png 480w ,https://hajovel.github.io/portfolio/media/posts/10/responsive/chisme-lunaluna-01-2-lg-md.png 768w ,https://hajovel.github.io/portfolio/media/posts/10/responsive/chisme-lunaluna-01-2-lg-lg.png 1024w"  alt="" width="1024" height="1024"></figure>
+<p>Created with both Procreate and Illustrator.</p>
             ]]>
         </content>
     </entry>
@@ -282,6 +258,37 @@
 <p class="c2 c4"><div class="post__iframe"><iframe loading="lazy" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2FICZIsMUWBkDMjt6idHSyrB%2FPSYCH-124-PROJECT%3Fnode-id%3D41%253A3%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D41%253A3%26show-proto-sidebar%3D1" allowfullscreen="allowfullscreen"></iframe></div>
 <p class="c2 c4"> </p>
 <p class="c2 c4"> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Gender and Development </title>
+        <author>
+            <name>haven</name>
+        </author>
+        <link href="https://hajovel.github.io/portfolio/gender-and-development.html"/>
+        <id>https://hajovel.github.io/portfolio/gender-and-development.html</id>
+            <category term="Website Design"/>
+
+        <updated>2023-07-20T00:44:29-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hajovel.github.io/portfolio/media/posts/4/Screen-Shot-2023-07-20-at-12.43.46-AM.png" alt="" />
+                    About For the Fall Quarter '21 course Introduction to Digital Humanities, I collaborated with four other students to create a website from scratch that would be the platform for our findings while analyzing our selected dataset. For our data, we picked a dataset from the OECD’s The Gender, Institutions and Development Database from 2019, specifically examining the differences and similarities of Eastern European countries when it came to gender attitudes, such as when it comes to violence against women and political voice. I was the primary website designer, meaning I foresaw the entirety of the design process from selecting themes, selecting a color scheme, and editing the website content using Wordpress hosted by Humspace. View our team's website&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hajovel.github.io/portfolio/media/posts/4/Screen-Shot-2023-07-20-at-12.43.46-AM.png" alt="" />
+                <h3>About </h3>
+<div>
+<div>For the Fall Quarter '21 course Introduction to Digital Humanities, I collaborated with four other students to create a website from scratch that would be the platform for our findings while analyzing our selected dataset. </div>
+<div> </div>
+<div>For our data, we picked a dataset from the OECD’s The Gender, Institutions and Development Database from 2019, specifically examining the differences and similarities of Eastern European countries when it came to gender attitudes, such as when it comes to violence against women and political voice. </div>
+<div> </div>
+<div>I was the primary website designer, meaning I foresaw the entirety of the design process from selecting themes, selecting a color scheme, and editing the website content using Wordpress hosted by Humspace. </div>
+</div>
+<p>View our team's website <a href="https://genderanddevelopment.humspace.ucla.edu/" target="_blank" rel="noopener noreferrer">here</a>!</p>
             ]]>
         </content>
     </entry>
