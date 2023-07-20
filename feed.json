@@ -28,9 +28,9 @@
         {
             "id": "https://hajovel.github.io/portfolio/la-gente-spring-2023-issue.html",
             "url": "https://hajovel.github.io/portfolio/la-gente-spring-2023-issue.html",
-            "title": "La Gente Spring 2023 Issue",
+            "title": "La Gente Spring &#x27;23 Issue",
             "summary": "You can also view the print issue&hellip;",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://hajovel.github.io/portfolio/media/posts/19/Spring2023v2_share.pdf\" alt=\"\" width=\"NaN\" height=\"NaN\"></figure><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"525px\" height=\"371px\" style=\"border: 1px solid #777;\" src=\"https://indd.adobe.com/embed/06306978-1186-498c-a148-fb398c61dad8?startpage=1&amp;allowFullscreen=true\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p>You can also view the print issue <a href=\"https://issuu.com/lagentenewsmag/docs/spring2023v2editzsz_1_\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</p>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"525px\" height=\"371px\" style=\"border: 1px solid #777;\" src=\"https://indd.adobe.com/embed/06306978-1186-498c-a148-fb398c61dad8?startpage=1&amp;allowFullscreen=true\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p>You can also view the print issue <a href=\"https://issuu.com/lagentenewsmag/docs/spring2023v2editzsz_1_\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</p>",
             "author": {
                 "name": "haven"
             },
@@ -38,7 +38,7 @@
                    "Graphic Design"
             ],
             "date_published": "2023-07-13T13:09:17-07:00",
-            "date_modified": "2023-07-18T02:40:31-07:00"
+            "date_modified": "2023-07-20T14:12:10-07:00"
         },
         {
             "id": "https://hajovel.github.io/portfolio/arts-library-open-house-branding.html",
