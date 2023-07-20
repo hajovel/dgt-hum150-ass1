@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://hajovel.github.io/portfolio/la-gente-newmagazine-winter-23-issue.html",
+            "url": "https://hajovel.github.io/portfolio/la-gente-newmagazine-winter-23-issue.html",
+            "title": "La Gente Newmagazine: Winter &#x27;23 Issue",
+            "summary": "You can also view the issue along with past ones&hellip;",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"525px\" height=\"371px\" style=\"border: 1px solid #777;\" src=\"https://indd.adobe.com/embed/818ab742-a6b2-4908-b25f-caf7acd627ec?startpage=1&amp;allowFullscreen=true\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p>You can also view the issue along with past ones <a href=\"https://issuu.com/lagentenewsmag/docs/white23finalsingel\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>. </p>",
+            "image": "https://hajovel.github.io/portfolio/media/posts/20/Screen-Shot-2023-07-18-at-2.36.04-AM.png",
+            "author": {
+                "name": "haven"
+            },
+            "tags": [
+                   "Graphic Design"
+            ],
+            "date_published": "2023-07-18T02:35:07-07:00",
+            "date_modified": "2023-07-18T02:40:26-07:00"
+        },
+        {
+            "id": "https://hajovel.github.io/portfolio/la-gente-spring-2023-issue.html",
+            "url": "https://hajovel.github.io/portfolio/la-gente-spring-2023-issue.html",
+            "title": "La Gente Spring 2023 Issue",
+            "summary": "You can also view the print issue&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://hajovel.github.io/portfolio/media/posts/19/Spring2023v2_share.pdf\" alt=\"\" width=\"NaN\" height=\"NaN\"></figure><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"525px\" height=\"371px\" style=\"border: 1px solid #777;\" src=\"https://indd.adobe.com/embed/06306978-1186-498c-a148-fb398c61dad8?startpage=1&amp;allowFullscreen=true\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p>You can also view the print issue <a href=\"https://issuu.com/lagentenewsmag/docs/spring2023v2editzsz_1_\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</p>",
+            "image": "https://hajovel.github.io/portfolio/media/posts/19/Screen-Shot-2023-07-18-at-2.37.23-AM.png",
+            "author": {
+                "name": "haven"
+            },
+            "tags": [
+                   "Graphic Design"
+            ],
+            "date_published": "2023-07-13T13:09:17-07:00",
+            "date_modified": "2023-07-18T02:40:31-07:00"
+        },
+        {
             "id": "https://hajovel.github.io/portfolio/arts-library-open-house-branding.html",
             "url": "https://hajovel.github.io/portfolio/arts-library-open-house-branding.html",
             "title": "Arts Library Open House Branding",
@@ -21,7 +53,7 @@
                 "name": "haven"
             },
             "tags": [
-                   "Graphics"
+                   "Graphic Design"
             ],
             "date_published": "2023-02-21T02:45:31-08:00",
             "date_modified": "2023-02-21T03:38:01-08:00"
@@ -37,7 +69,7 @@
                 "name": "haven"
             },
             "tags": [
-                   "Graphics"
+                   "Graphic Design"
             ],
             "date_published": "2023-02-17T00:08:52-08:00",
             "date_modified": "2023-02-21T03:43:47-08:00"
@@ -52,26 +84,10 @@
                 "name": "haven"
             },
             "tags": [
-                   "Graphics"
+                   "Graphic Design"
             ],
             "date_published": "2023-02-17T00:05:30-08:00",
             "date_modified": "2023-02-21T04:57:12-08:00"
-        },
-        {
-            "id": "https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo-5.html",
-            "url": "https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo-5.html",
-            "title": "GL Fundraiser",
-            "summary": "Created in&hellip;",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://hajovel.github.io/portfolio/media/posts/15/Flyer.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://hajovel.github.io/portfolio/media/posts/15/responsive/Flyer-xs.png 300w ,https://hajovel.github.io/portfolio/media/posts/15/responsive/Flyer-sm.png 480w ,https://hajovel.github.io/portfolio/media/posts/15/responsive/Flyer-md.png 768w ,https://hajovel.github.io/portfolio/media/posts/15/responsive/Flyer-lg.png 1024w\"  alt=\"\" width=\"2550\" height=\"3300\"></figure>\n<p>Created in Figma.</p>",
-            "image": "https://hajovel.github.io/portfolio/media/posts/15/Flyer-2.png",
-            "author": {
-                "name": "haven"
-            },
-            "tags": [
-                   "Graphics"
-            ],
-            "date_published": "2023-02-16T23:55:25-08:00",
-            "date_modified": "2023-02-16T23:55:57-08:00"
         },
         {
             "id": "https://hajovel.github.io/portfolio/chismeando-con-la-gente-luna-luna-interview-promo-4.html",
@@ -84,7 +100,7 @@
                 "name": "haven"
             },
             "tags": [
-                   "Graphics"
+                   "Graphic Design"
             ],
             "date_published": "2022-11-04T02:48:11-07:00",
             "date_modified": "2022-11-04T02:48:11-07:00"
@@ -100,7 +116,7 @@
                 "name": "haven"
             },
             "tags": [
-                   "Graphics"
+                   "Graphic Design"
             ],
             "date_published": "2022-11-04T02:46:59-07:00",
             "date_modified": "2022-11-04T02:46:59-07:00"
@@ -116,7 +132,7 @@
                 "name": "haven"
             },
             "tags": [
-                   "Graphics"
+                   "Graphic Design"
             ],
             "date_published": "2022-11-04T02:23:27-07:00",
             "date_modified": "2022-11-04T02:44:55-07:00"
@@ -132,26 +148,10 @@
                 "name": "haven"
             },
             "tags": [
-                   "Graphics"
+                   "Graphic Design"
             ],
             "date_published": "2022-11-04T02:20:51-07:00",
             "date_modified": "2022-11-04T02:24:36-07:00"
-        },
-        {
-            "id": "https://hajovel.github.io/portfolio/uclgays-2.html",
-            "url": "https://hajovel.github.io/portfolio/uclgays-2.html",
-            "title": "CL Bracelet Social!",
-            "summary": "In collaboration with team member Sage, we designed a social media post to promote our bracelet social where we get to make our own charms/bracelets using&hellip;",
-            "content_html": "<p>In collaboration with team member Sage, we designed a social media post to promote our bracelet social where we get to make our own charms/bracelets using Figma.</p>",
-            "image": "https://hajovel.github.io/portfolio/media/posts/7/Insta-post-9-2.png",
-            "author": {
-                "name": "haven"
-            },
-            "tags": [
-                   "Graphics"
-            ],
-            "date_published": "2022-11-04T02:16:45-07:00",
-            "date_modified": "2022-11-04T02:45:39-07:00"
         },
         {
             "id": "https://hajovel.github.io/portfolio/bruinplanner.html",
@@ -164,12 +164,10 @@
                 "name": "haven"
             },
             "tags": [
-                   "UI/UX",
-                   "Project",
-                   "Graphics"
+                   "UI/UX"
             ],
             "date_published": "2022-10-24T22:14:33-07:00",
-            "date_modified": "2022-11-04T02:49:10-07:00"
+            "date_modified": "2023-07-18T02:40:51-07:00"
         }
     ]
 }
